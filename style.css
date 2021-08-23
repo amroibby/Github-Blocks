@@ -1,0 +1,35 @@
+.container { 
+    background-color: #d1eaf1;
+    
+    
+}
+
+#dojo1 {
+    margin: 10px;
+    height: 200px;
+    background-color: #72ccef;
+    justify-content: center;
+    display: flex;
+    
+}
+#dojo2 {
+    margin: 10px;
+    height: 200px;
+    background-color: #d0a5b9;
+    justify-content: center;
+    display: flex;
+    
+}
+#dojo3 {
+    margin: 10px;
+    height: 200px;
+    background-color: blueviolet;
+    justify-content: center;
+    display: flex;
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    
+}
